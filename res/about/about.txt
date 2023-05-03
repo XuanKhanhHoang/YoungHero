@@ -1,0 +1,18 @@
+About this game:
+	About the developer:
+		This game was designed and developed by Hoang Xuan Khanh.
+		Email: HoangXuanKhanh.Work@gmail.com
+		The game version 1.0.0 was completed on April 14, 2023.
+		The game is based on JAVASE-17.
+Special thanks:
+	-RyiSnow YoutubeChannel- 
+	Programming tutorial and support for this game
+	-Pixabay.com- 
+	Provides sounds used in games
+	-Vxresource.wordpress.com-
+	Provides images and graphics used in games
+	-Dafont.com- 
+	Provide MisterPixel16 font
+	-Elthen as elthen.itch.io-
+	Provide some monster sprites images
+	And the author of some other resources used in this game.
